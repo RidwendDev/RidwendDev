@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I am Ridwan Akmal👋
+- 🔭 I’m currently Studying at IT UGM (BASc) & Math UNY (BSc)
+- 🌱 I’m currently learning Data Sci, Deep learning, Interne of Things and Software development
+- 👯 I’m looking to collaborate on Programming, IoT, EduSci Problem and Data Science
+- 📫 How to reach me: https://ridwan-space.medium.com/ and https://www.linkedin.com/in/ridwan-akmal/
+- ⚡ Fun fact: Someone who doesn't like soto ayam
 
-<!--
-**RidwendDev/RidwendDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="python" width="25px" src="https://tse2.mm.bing.net/th?id=OIP.EDJ9xoErBbZqK2tExVoJfAHaHY&pid=Api&P=0" /></a>
+  <a href="https://reactjs.org/"><img align="left" alt="React" title="numpy" width="25px" src="https://tse1.mm.bing.net/th?id=OIP.l1AQ66VAXRACsmsY2ocTKgAAAA&pid=Api&P=0" /></a>
+  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="pandas" width="31px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--jnxn75Qd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/gujja45g5md39qhjih67.jpg" /></a>
+  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="pandas" width="31px" src="https://www.moredatascientists.com/wp-content/uploads/2015/06/sklearn-2.png" /></a>
+  <br>
+  <br>
+
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/RidwendDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RidwendDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iwanplayground&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
