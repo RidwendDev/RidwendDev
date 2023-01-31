@@ -1,5 +1,5 @@
 ### Hi there, I am Ridwan Akmal👋
-- 🔭 I’m currently Studying at IT UGM (BAEng) & Math UNY (BSc)
+- 🔭 I’m currently Studying at IET UGM (BAEng) & Math UNY (BSc)
 - 🌱 I’m currently learning Data Sci, Deep learning, Interne of Things and Software development
 - 👯 I’m looking to collaborate on Programming, IoT, EduSci Problem and Data Science
 - 📫 How to reach me: https://ridwan-space.medium.com/ and https://www.linkedin.com/in/ridwan-akmal/
