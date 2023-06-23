@@ -1,6 +1,7 @@
 ### Hi there, I am Ridwan Akmal👋
 - 🔭 I’m currently Studying at IET UGM (BAEng) & Math UNY (BSc)
 - 🌱 I’m currently learning Data Sci, Deep learning, Internet of Things and Software research development
+- 🔋 Lead of Data Mining&AI KOMATIK UGM
 - 👯 I’m looking to collaborate on Programming, IoT, EduSci Problem and Data Science
 - 📫 How to reach me: https://ridwan-space.medium.com/ and https://www.linkedin.com/in/ridwan-akmal/
 - ⚡ Fun fact: Someone who doesn't like soto ayam
