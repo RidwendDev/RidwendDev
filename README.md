@@ -1,8 +1,7 @@
 ### Hi there, I am Ridwan Akmal👋
 - 🎓 UGM Alumni | 🛒 Ex DA @Lazada | 🤖 Ex AI Eng @Widya Robotics
-- 🌱 I’m currently learning Data Sci, Deep learning, Internet of Things and Software research development
-- 🔋  Former Lead of Data Mining&AI KOMATIK UGM
-- 👯 I’m looking to collaborate on Programming, IoT, EduSci Problem and Data Science
+- 🔋 Former Lead of Data Mining&AI KOMATIK UGM
+- 👯 I’m looking to collaborate on Programming, IoT, EduSci Problem, Scientific Research and AI
 - 📫 How to reach me: https://ridwan-space.medium.com/ and https://www.linkedin.com/in/ridwan-akmal/
 - ⚡ Fun fact: Someone who doesn't like soto ayam
 
